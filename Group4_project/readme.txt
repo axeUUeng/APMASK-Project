@@ -6,3 +6,5 @@ Hyperparameters (mu_prior, sigma_prior and beta_inv) are set in the beggining an
 They are then changed again for Q10.
 
 If one wants to try to shuffle the serie A data before doing ADF in Q5 - replace serie_A_data=serie_A_data with serie_A_data=serie_A_shuffle
+
+test if push works
