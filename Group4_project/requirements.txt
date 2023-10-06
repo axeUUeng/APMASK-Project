@@ -1,17 +1,10 @@
-Requirements
-
------
-matplotlib          3.5.1
-numpy               1.22.1
-pandas              1.4.0
-scipy               1.7.3
-seaborn             0.11.2
-tqdm                4.64.1
------
-
------
-IPython             8.0.1
-jupyter_client      7.1.2
-jupyter_core        4.9.1
-notebook            6.4.7
------
+matplotlib==3.5.1
+numpy==1.22.1
+pandas==1.4.0
+scipy==1.7.3
+seaborn==0.11.2
+tqdm==4.64.1
+IPython==8.0.1
+jupyter_client==7.1.2
+jupyter_core==4.9.1
+notebook==6.4.7
