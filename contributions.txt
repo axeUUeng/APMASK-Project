@@ -4,6 +4,7 @@ Abstract
 Q4: Burn-in and time measurements + analysis. Gaussian approximations.
 Q9: Modify code, run and results.
 Discussion
+Final run with the correct code, collecting results and plots
 
 Axel Englund:
 tikz diagrams of networks.
