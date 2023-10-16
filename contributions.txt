@@ -6,6 +6,14 @@ Q9: Modify code, run and results.
 Discussion
 
 Axel Englund:
+tikz diagrams of networks.
+Q1: involved in stating/formulating distributions and model.
+Q3: Derivation of the distributions.
+Q4: major code contributions.
+Q5: major code contributions.
+Q6: major code contributions.
+Q7: involved in derivations of messages.
+Q8: involved in derivations of messages, major code contributions.
 
 David Lood:
 
