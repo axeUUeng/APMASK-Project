@@ -4,8 +4,6 @@ Abstract
 Q4: Burn-in and time measurements + analysis. Gaussian approximations.
 Q9: Modify code, run and results.
 Discussion
-Doing the final run of the code, collecting plots and results 
-
 
 Axel Englund:
 
