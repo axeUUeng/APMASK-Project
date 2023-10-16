@@ -10,3 +10,10 @@ Axel Englund:
 David Lood:
 
 Elsa Rimhagen:
+General report writing
+Q1: stating the different distribution and formulations from the problem description
+Q2: The Bayesian network and dependencies
+Q4: Burn-in and time measurements + analysis. Gaussian approximations.
+Q6: Calculated the prediction rate
+Q10: Expaned the data set and run the code to measure the prediction rate
+Discussion
