@@ -17,6 +17,12 @@ Q7: involved in derivations of messages.
 Q8: involved in derivations of messages, major code contributions.
 
 David Lood:
+Q1: involved in stating/formulating distributions and model.
+Q4: major code contributions.
+Q5: major code contributions.
+Q7: involved in derivations of messages.
+Q8: involved in derivations of messages, major code contributions.
+
 
 Elsa Rimhagen:
 General report writing
